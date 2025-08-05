@@ -8,8 +8,6 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 22 anos e sou natural do Espír
 
 ## 💻 Linguagens e Tecnologias
 
-### Front-End
-
 <img 
     align="left"
     alt="HTML"
@@ -54,10 +52,6 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 22 anos e sou natural do Espír
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-</br>
-</br>
-
-### Back-End
 
 <img 
     align="left"
@@ -104,10 +98,6 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 22 anos e sou natural do Espír
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-</br>
-</br>
-
-### Database
 <img 
     align="left"
     alt="MongoDB"
