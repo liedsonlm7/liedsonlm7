@@ -68,6 +68,15 @@ I’ve always been curious about how websites and apps work behind the scenes, a
 
 <img 
     align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left"
     alt="JSON"
     title="JSON"
     width="30px"
@@ -91,15 +100,6 @@ I’ve always been curious about how websites and apps work behind the scenes, a
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
