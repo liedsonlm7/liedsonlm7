@@ -4,7 +4,7 @@
 
 **`FullStack Developer`**
 
-Hi, my name is Liedson Alves Marchioro, I'm 22 years old and I'm from Espírito Santo, Brazil.  
+Hi, my name is Liedson Alves Marchioro, I'm 23 years old and I'm from Espírito Santo, Brazil.  
 I'm currently in the final semester of my **Systems Analysis and Development** degree at **Vila Velha University (UVV)**.
 
 I’ve always been curious about how websites and apps work behind the scenes, and I believe this curiosity is one of the main reasons I fall more in love with technology every day — a field that’s constantly growing and evolving, and impacting millions of lives around the world.
