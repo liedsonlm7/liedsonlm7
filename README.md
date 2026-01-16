@@ -133,20 +133,6 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espír
 </br>
 
 <br />
-<br />
-
-## 📊 Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=liedsonlm7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liedsonlm7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200" />
-    </td>
-  </tr>
-</table>
 
 </br>
 
