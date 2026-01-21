@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espírito Santo. Atualmente estou cursando o último semestre do curso de Análise e Desenvolvimento de Sistemas na Universidade Vila Velha - UVV. Sempre tive curiosidade de entender como os sites e aplicativos funcionam na prática e acredito que este seja um dos principais motivos que fazem com que eu me apaixone a cada dia por essa área que está em constante crescimento e evolução, mudando a vida de milhares de pessoas ao redor do mundo.
+Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espírito Santo. Atualmente estou focando meus estudos no aprimoramento de minhas habilidades de desenvolvimento back-end, utilizando a linguagem Java com o framework Spring Boot.
 
 </br>
 
