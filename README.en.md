@@ -2,12 +2,9 @@
 
 📄 [Leia em Português](./README.md)
 
-**`FullStack Developer`**
+**`Back-end Developer`**
 
-Hi, my name is Liedson Alves Marchioro, I'm 23 years old and I'm from Espírito Santo, Brazil.  
-I'm currently in the final semester of my **Systems Analysis and Development** degree at **Vila Velha University (UVV)**.
-
-I’ve always been curious about how websites and apps work behind the scenes, and I believe this curiosity is one of the main reasons I fall more in love with technology every day — a field that’s constantly growing and evolving, and impacting millions of lives around the world.
+Hello, my name is Liedson Alves Marchioro, I am 23 years old and I am from Espírito Santo. I am currently focusing my studies on improving my back-end development skills, using the Java language with the Spring Boot framework.
 </br>
 
 ## 💻 Languages and Technologies
