@@ -21,15 +21,6 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espír
 
 <img 
     align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left"
     alt="JSON"
     title="JSON"
     width="30px"
@@ -44,6 +35,24 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espír
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="Amazon AWS"
+    title="Amazon AWS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 
 <img 
@@ -75,15 +84,6 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espír
 
 <img 
     align="left"
-    alt="Node"
-    title="Node"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left"
     alt="React"
     title="React"
     width="30px"
@@ -91,23 +91,13 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espír
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="TypeScript"
+    title="TypeScript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
 <img 
@@ -119,16 +109,6 @@ Olá, meu nome é Liedson Alves Marchioro, tenho 23 anos e sou natural do Espír
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-
-<img 
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
 
 </br>
 
